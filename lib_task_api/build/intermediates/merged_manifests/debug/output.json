@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "org.tensorflow.lite.examples.classification.tflite",
+  "applicationId": "org.tensorflow.lite.examples.detection.tflite",
   "variantType": "LIBRARY",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "../../library_manifest/debug/AndroidManifest.xml",
       "properties": {
-        "packageId": "org.tensorflow.lite.examples.classification.tflite",
+        "packageId": "org.tensorflow.lite.examples.detection.tflite",
         "split": ""
       }
     }

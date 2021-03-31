@@ -1,2 +1,0 @@
-org/tensorflow/lite/examples/classification/models/BuildConfig.java
- org.tensorflow.lite.examples.classification.models.BuildConfig
